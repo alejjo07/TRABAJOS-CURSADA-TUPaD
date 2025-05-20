@@ -1,1 +1,86 @@
+import os
+os.system("cls")
 
+#EJERCICIO 1
+#lista_1 = list(range(4, 101, 4))
+#print(lista_1)
+
+#--------------------------------------------------#
+
+#EJERCICIO 2
+#lista1 = ["Animal", 10, 4.9, "Control","Perro" ]
+#print(lista1[3])
+
+#--------------------------------------------------#
+
+#EJERCICIO 3
+#lista_vacia = []
+
+#lista_vacia.append("Me")
+#lista_vacia.append("Llamo")
+#lista_vacia.append("Alejo")
+
+#print(lista_vacia)
+
+#--------------------------------------------------#
+
+#EJERCICIO 4
+#animales = ["perro","gato","conejo","pez"]
+
+#animales [1] = "loro"
+#animales [3] = "oso"
+
+#print(animales)
+
+#--------------------------------------------------#
+
+#EJERCICIO 5
+# El siguiente programa lo que realiza es crear una lista llamada "numeros" la cual 
+# contiene 5 elementos, luego se llama a la funcion "remove" la cual se le de ordena
+# que remueva o elimine el numero con maximo valor de la lista, siendo el 22.
+# Luego imprime nuevamente la lista ya sin el valor maximo.
+
+#numeros = [8, 15, 3, 22, 7]
+#numeros.remove (max(numeros))
+#print(numeros)
+
+#--------------------------------------------------#
+#EJERCICIO 6
+#Lista = list(range(10, 31, 5))
+
+#print (Lista[:2])
+
+#--------------------------------------------------#
+#EJERCICIO 7
+#autos = ["sedan", "polo", "suran", "gol"]
+
+#autos[1] = "celta"
+#autos[2] = "march"
+
+#print(autos)
+
+#--------------------------------------------------#
+#EJERCICIO 8
+#dobles =[]
+
+#dobles.append(5 * 2)
+#dobles.append(10 * 2)
+#dobles.append(15 * 2)
+
+#print(dobles)
+
+#--------------------------------------------------#
+#EJERCICIO 9
+#compras = [["pan", "leche"], ["arroz", "fideos", "salsa"],["agua"]]
+
+#compras[2].append("jugo")
+#compras[1][1] = "tallarines"
+#compras[0].remove("pan")
+
+#print(compras)
+
+#--------------------------------------------------#
+#EJERCICIO 10
+#lista_anidada = [15, True, [25,5, 57,9, 30.6], False]
+
+#print(lista_anidada)
